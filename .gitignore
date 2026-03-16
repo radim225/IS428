@@ -22,3 +22,6 @@
 .quarto/
 *_files/
 *.nb.html
+
+/.quarto/
+**/*.quarto_ipynb
