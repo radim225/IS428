@@ -5,5 +5,12 @@
     "title": "IS428",
     "section": "",
     "text": "Test Text\nThis is test text published from Quarto to GitHub Pages."
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Introduction\nThis page highlights the Class 9 visual used in this website.\n\n\n\nClass 9 visual"
   }
 ]

@@ -6,6 +6,8 @@ website:
   title: "IS428"
   navbar:
     left:
+      - href: introduction.qmd
+        text: Introduction
       - href: index.ipynb
         text: Home
 

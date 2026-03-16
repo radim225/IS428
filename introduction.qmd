@@ -1,0 +1,9 @@
+---
+title: "Introduction"
+---
+
+# Introduction
+
+This page highlights the Class 9 visual used in this website.
+
+![Class 9 visual](assets/image_class_9.png){fig-alt="Class 9 visual from the course material"}
