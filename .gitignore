@@ -1,0 +1,24 @@
+# Ignore everything in this mixed course workspace by default.
+*
+
+# Keep git metadata and repository docs.
+!.gitignore
+!README.md
+
+# Keep Quarto source and site output.
+!_quarto.yml
+!*.qmd
+!*.ipynb
+!docs/
+!docs/**
+!images/
+!images/**
+!assets/
+!assets/**
+!styles.css
+!custom.scss
+
+# Ignore Quarto and notebook build artifacts.
+.quarto/
+*_files/
+*.nb.html
