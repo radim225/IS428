@@ -4,6 +4,7 @@
 # Keep git metadata and repository docs.
 !.gitignore
 !README.md
+!vercel.json
 
 # Keep Quarto source and site output.
 !_quarto.yml
